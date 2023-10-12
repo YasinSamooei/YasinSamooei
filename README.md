@@ -11,7 +11,9 @@
 # github status:
 ![](https://github-readme-stats.vercel.app/api?username=YasinSamooei&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YasinSamooei&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSamooei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=YasinSamooei&theme=nord&hide_border=true&no-frame=true&row=1&column=7" alt="Yasin Samooei points"/>
+</p>
 
 ## donate link:
 https://www.coffeete.ir/YasinSamooei
