@@ -1,4 +1,10 @@
-# Hi there, I'm **Yasin Samooei** 👋  
+<div align="center">
+
+# 👋 Welcome to my GitHub Profile  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Yasin+Samooei;Django+Developer+%7C+Python+Programmer;AI+Enthusiast+%7C+Golang+Learner+%7C+IoT+Maker;Blender+3D+Artist+%7C+Open-Source+Contributor)](https://git.io/typing-svg)
+
+---
+
 ### 🖥️ Django Developer | 🐍 Python Programmer | 🎨 Blender 3D Maker  
 
 ---
@@ -21,10 +27,13 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YasinSamooei&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+## 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=YasinSamooei&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+---
+
+## 🥇 GitHub Achievements  
+<img src="https://github-profile-achievements.vercel.app/api/?username=YasinSamooei" alt="GitHub Achievements" />
 
 ---
 
@@ -32,4 +41,4 @@
 If you like my work, consider buying me a coffee:  
 👉 [Buy Me a Coffee](https://www.coffeete.ir/YasinSamooei)  
 
----
+</div>
