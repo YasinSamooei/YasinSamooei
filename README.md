@@ -32,8 +32,8 @@
 
 ---
 
-## 🥇 GitHub Achievements  
-<img src="https://github-profile-achievements.vercel.app/api/?username=YasinSamooei" alt="GitHub Achievements" />
+## 📈 Contribution Graph  
+[![YasinSamooei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YasinSamooei&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
