@@ -1,39 +1,3 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yasin%20Samooei&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+There!+I'm+Yasin+Samooei+%F0%9F%91%8B;Django+Developer+%7C+Python+Programmer+%F0%9F%90%8D;AI+Enthusiast+%7C+Golang+Learner+%7C+IoT+Maker+%F0%9F%A4%96;Blender+3D+Artist+%7C+Open-Source+Contributor+%F0%9F%8E%A8" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Me Section with Icons -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="code icon"> 
-  About Me
-</h2>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Yasin Samooei"
-        self.role = "Full Stack Developer"
-        self.code = ["Python", "Django", "Go", "JavaScript", "HTML/CSS"]
-        self.specialties = ["Web Development", "3D Design", "IoT", "AI/ML"]
-        self.tools = ["Blender", "Adobe Suite", "VSCode", "Git"]
-        self.current_focus = "Building scalable web applications with Django"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = Developer()
-me.say_hi()
-```
-
 <br/>
 
 <!-- Connect Section with Glowing Effect -->
