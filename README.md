@@ -1,3 +1,57 @@
+<!-- Support Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" alt="support icon">
+  Support My Work
+</h2>
+
+<p align="center">
+  If you find my projects helpful and want to support my work, consider buying me a coffee! ☕
+</p>
+
+<p align="center">
+  <a href="https://www.coffeete.ir/YasinSamooei">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<br/><div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yasin%20Samooei&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Yasin+Samooei+%F0%9F%91%8B;Django+Developer+%7C+Python+Programmer+%F0%9F%90%8D;AI+Enthusiast+%7C+Golang+Learner+%7C+IoT+Maker+%F0%9F%A4%96;Blender+3D+Artist+%7C+Open-Source+Contributor+%F0%9F%8E%A8" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Me Section with Icons -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="code icon"> 
+  About Me
+</h2>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Yasin Samooei"
+        self.role = "Full Stack Developer"
+        self.code = ["Python", "Django", "Go", "JavaScript", "HTML/CSS"]
+        self.specialties = ["Web Development", "3D Design", "IoT", "AI/ML"]
+        self.tools = ["Blender", "Adobe Suite", "VSCode", "Git"]
+        self.current_focus = "Building scalable web applications with Django"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = Developer()
+me.say_hi()
+```
+
 <br/>
 
 <!-- Connect Section with Glowing Effect -->
@@ -93,40 +147,6 @@
 <br/>
 
 <!-- Support Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" alt="support icon">
-  Support My Work
-</h2>
-
-<p align="center">
-  If you find my projects helpful and want to support my work, consider buying me a coffee! ☕
-</p>
-
-<p align="center">
-  <a href="https://www.coffeete.ir/YasinSamooei">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasinSamooei/YasinSamooei/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasinSamooei/YasinSamooei/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YasinSamooei/YasinSamooei/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
-</p>
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
