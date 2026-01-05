@@ -106,7 +106,6 @@ me.say_hi()
 
 <br/>
 
-447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" alt="stats icon">
@@ -114,12 +113,12 @@ me.say_hi()
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasinSamooei&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YasinSamooei&theme=react&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSamooei&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YasinSamooei&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
@@ -132,10 +131,6 @@ me.say_hi()
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="32px" alt="trophy icon">
   Achievements
 </h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YasinSamooei&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
 
 <br/>
 
